@@ -2,7 +2,7 @@
 
 I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ATLAS-B28's Stats](https://github-readme-stats.vercel.app/api?username=ATLAS-B28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
