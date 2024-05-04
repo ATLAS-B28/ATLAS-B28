@@ -1,4 +1,4 @@
-# Hi, I'm <ATLAS-B28>! 👋
+# Hi, I'm ADITYA ***BHAMBERE***! 👋
 
 I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas.
 
