@@ -6,11 +6,11 @@ I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a cu
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachlor's in Computer Science at D.Y.Patil University.
-- ✍️ Interested in learning new technologies and maintain lecgacy systems.
+- 🔭 I'm currently pursuing my bachelor's in Computer Science at D.Y.Patil University.
+- ✍️ Interested in learning new technologies and maintaining legacy systems.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,c#,c++,html,css,js,mysql,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,csharp,cpp,html,css,js,mysql,docker,aws)](https://skillicons.dev)
 
 ## 🔭 Currently Working on
 
@@ -19,15 +19,15 @@ I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a cu
     Java-based scalable backends.
   - Diving into MySQL for efficient and scalable database management.
   - Building server-side applications with Django, a powerful Python web framework.
-  - Exploring the ins and outs of JavaScript, React and Redux for dynamic front-end experiences.
+  - Exploring the ins and outs of JavaScript, React, and Redux for dynamic front-end experiences.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Practicing DBMS, Networking, and OS concpets
-  - Gaining technical know-how in DevOps enviroment by learning AWS, Docker and Linux.
+  - Practicing DBMS, Networking, and OS concepts
+  - Gaining technical know-how in DevOps environment by learning AWS, Docker, and Linux.
 
  ## 🏆 Achievements
 
-- 🌟 Completed Forage's Cisco Intro to Software Engineering Completion Certificate - Where I developed a React-based fornt-end application
-- 🌟 Learnt and Compeleted DSA COurse on Udemy - Here, learnt to solve basic DSA questions and gain knowledge regarding various data structures and algorithms
+- 🌟 Completed Forage's Cisco Intro to Software Engineering Completion Certificate - Where I developed a React-based front-end application
+- 🌟 Learnt and Completed DSA COurse on Udemy - Here, learned to solve basic DSA questions and gain knowledge regarding various data structures and algorithms
 
 
 ## 📬 Get in Touch
