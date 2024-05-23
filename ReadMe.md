@@ -10,7 +10,7 @@ I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a cu
 - ✍️ Interested in learning new technologies and maintain lecgacy systems.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,mysql,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c#,c++,html,css,js,mysql,docker,aws)](https://skillicons.dev)
 
 ## 🔭 Currently Working on
 
