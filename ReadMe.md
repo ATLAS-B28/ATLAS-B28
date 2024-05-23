@@ -11,9 +11,11 @@ I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a cu
 
 ## Tech Stack
 ### Main Skills -
-[![Main Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,py,mysql,mongodb,docker,aws)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,py,mysql,mongodb,git)](https://skillicons.dev)
 ### Secondary Skills -
-[![Secondary Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,go,kotlin,django,sqlite,erlang)](https://skillicons.dev)
+[![Secondary Skills](https://skillicons.dev/icons?i=docker,aws,cpp,cs,dotnet,django,sqlite)](https://skillicons.dev)
+### Enthusiastic About - 
+[![Secondary Skills](https://skillicons.dev/icons?i=go,kotlin,scala,rust,elixir,rabbitmq)](https://skillicons.dev)
 
 ## 🔭 Currently Working on
 
