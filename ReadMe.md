@@ -31,14 +31,17 @@ I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a cu
 
  ## 🏆 Achievements
 
-- 🌟 Completed Forage's Cisco Intro to Software Engineering Completion Certificate - Where I developed a React-based front-end application
-- 🌟 Learnt and Completed DSA COurse on Udemy - Here, learned to solve basic DSA questions and gain knowledge regarding various data structures and algorithms
+- 🌟 Completed Forage's Cisco Intro to Software Engineering Completion Certificate - Where I developed a React-based front-end application.
+- 🌟 Learnt and Completed DSA Course on Udemy - Here, learned to solve basic DSA questions and gain knowledge regarding various data structures and algorithms.
+- 🌟 ML Project for Language Translation - Biult ML project using Python, ML learning libraries for language translation using CNN.
+- 🌟 Successfully learned and built projects each displaying each component of Spring Framework.
 
 
 ## 📬 Get in Touch
 
 - This is my [GitHub](https://github.com/ATLAS-B28)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-bhambere-7a96a9225/)
+- Connect with me on [Aditya Bhambere](https://adityabhambere.notion.site/Aditya-Bhambere-a006a7eff5824a8eb46b2f4a9441bff7)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
