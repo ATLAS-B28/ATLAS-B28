@@ -20,7 +20,7 @@ I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a cu
 ## 🔭 Currently Working on
 
 - 🚀 Learning Full Stack Software Development
-  - Exploring Spring and its components like Spring Security, Spring Data, etc to better understand how to build
+  - Exploring Spring and its components like Spring Security, Spring Data, etc to understand better how to build
     Java-based scalable backends.
   - Diving into MySQL for efficient and scalable database management.
   - Building server-side applications with Django, a powerful Python web framework.
@@ -32,8 +32,8 @@ I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a cu
  ## 🏆 Achievements
 
 - 🌟 Completed Forage's Cisco Intro to Software Engineering Completion Certificate - Where I developed a React-based front-end application.
-- 🌟 Learnt and Completed DSA Course on Udemy - Here, learned to solve basic DSA questions and gain knowledge regarding various data structures and algorithms.
-- 🌟 ML Project for Language Translation - Biult ML project using Python, ML learning libraries for language translation using CNN.
+- 🌟 Learnt and Completed DSA Course on Udemy - Here, I learned to solve basic DSA questions and gain knowledge regarding various data structures and algorithms.
+- 🌟 ML Project for Language Translation - Built ML project using Python, ML learning libraries for language translation using CNN.
 - 🌟 Successfully learned and built projects each displaying each component of Spring Framework.
 
 
@@ -42,6 +42,7 @@ I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a cu
 - This is my [GitHub](https://github.com/ATLAS-B28)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-bhambere-7a96a9225/)
 - Connect with me on [Aditya Bhambere](https://adityabhambere.notion.site/Aditya-Bhambere-a006a7eff5824a8eb46b2f4a9441bff7)
+- Resume [Resume](https://docs.google.com/document/d/13fbosyAsXvlmKrR2KcgmVN88eFPsDn1XGqfnrpw8WhU/edit?usp=sharing)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
