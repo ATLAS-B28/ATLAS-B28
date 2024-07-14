@@ -45,7 +45,7 @@ I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a cu
 - This is my [GitHub](https://github.com/ATLAS-B28)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-bhambere-7a96a9225/)
 - Connect with me on [Aditya Bhambere](https://adityabhambere.notion.site/Aditya-Bhambere-a006a7eff5824a8eb46b2f4a9441bff7)
-- Resume [Resume](https://docs.google.com/document/d/13fbosyAsXvlmKrR2KcgmVN88eFPsDn1XGqfnrpw8WhU/edit?usp=sharing)
+- Resume [Resume](https://adityabhambere.notion.site/Resume-c1afca17620444bb88101d91e997b8f6)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
