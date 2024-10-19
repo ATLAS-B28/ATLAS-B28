@@ -1,13 +1,14 @@
 # Hi, I'm ADITYA ***BHAMBERE***! 👋
 
-I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas.
+I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune, driven by a curiosity for technology and building solutions for complex problems. My journey involves delving into computer science and exploring new ideas.
 
 ![ATLAS-B28's Stats](https://github-readme-stats.vercel.app/api?username=ATLAS-B28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my bachelor's in Computer Science at D.Y.Patil University.
+- 🔭 I recently completed my bachelor's in Computer Science from D.Y.Patil University.
 - ✍️ Interested in learning new technologies and maintaining legacy systems.
+- 📟 Loves to explore intersections between Embedded, Cloud, Developer tools & Programming.  
 
 ## Tech Stack
 ### Main Skills -
@@ -34,6 +35,7 @@ I am a passionate B.Tech CS student at D.Y.Patil University Pune, driven by a cu
 
  ## 🏆 Achievements
 
+- 🌟 Recently completed AWS course from Udemy - The course comprised of learning and practicing cloud computing concepts & various services of AWS. 
 - 🌟 Completed Forage's Cisco Intro to Software Engineering Completion Certificate - Where I developed a React-based front-end application.
 - 🌟 Learnt and Completed DSA Course on Udemy - Here, I learned to solve basic DSA questions and gain knowledge regarding various data structures and algorithms.
 - 🌟 ML Project for Language Translation - Built ML project using Python, ML learning libraries for language translation using CNN.
