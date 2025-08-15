@@ -14,7 +14,7 @@ I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune, driven b
 ### Main Skills -
 [![Main Skills](https://skillicons.dev/icons?i=java,spring,js,py,mysql,mongodb,git)](https://skillicons.dev)
 ### Secondary Skills -
-[![Secondary Skills](https://skillicons.dev/icons?i=docker,aws,cpp,cs,dotnet,django,sqlite,ubuntu)](https://skillicons.dev)
+[![Secondary Skills](https://skillicons.dev/icons?i=docker,aws,cpp,maven,postman,rabbitmq,cs,dotnet,django,sqlite,ubuntu)](https://skillicons.dev)
 ### Enthusiastic About - 
 [![Secondary Skills](https://skillicons.dev/icons?i=go,kotlin,scala,rust,elixir)](https://skillicons.dev)
 
