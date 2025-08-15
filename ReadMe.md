@@ -1,4 +1,4 @@
-# Hi, I'm ADITYA ***BHAMBERE***! 👋
+# Hi, I'm ***ADITYA BHAMBERE***! 👋
 
 I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune, driven by a curiosity for technology and building solutions for complex problems. My journey involves delving into computer science and exploring new ideas.
 
@@ -23,7 +23,8 @@ I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune, driven b
 
 ## 🔭 Currently Working on
 
-- 🚀 Learning Full Stack Software Development
+- 🚀 Learning Java based Full Stack Software Development
+  - Build CLI project in Java by utilizing native libraries for file and I/O operations. 
   - Exploring Spring and its components like Spring Security, Spring Data, etc to understand better how to build
     Java-based scalable backends.
   - Diving into MySQL for efficient and scalable database management.
@@ -34,8 +35,8 @@ I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune, driven b
   - Gaining technical know-how in DevOps environment by learning AWS, Docker, and Linux.
 
  ## 🏆 Achievements
-
-- 🌟 Recently completed AWS course from Udemy - The course comprised of learning and practicing cloud computing concepts & various services of AWS. 
+- 🌟 Completed Amazon Jr Devloper Path via Coursera build projects along the way.
+- 🌟 Completed AWS course from Udemy - The course comprised of learning and practicing cloud computing concepts & various services of AWS. 
 - 🌟 Completed Forage's Cisco Intro to Software Engineering Completion Certificate - Where I developed a React-based front-end application.
 - 🌟 Learnt and Completed DSA Course on Udemy - Here, I learned to solve basic DSA questions and gain knowledge regarding various data structures and algorithms.
 - 🌟 ML Project for Language Translation - Built ML project using Python, ML learning libraries for language translation using CNN.
