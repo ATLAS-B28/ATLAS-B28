@@ -12,11 +12,11 @@ I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune, driven b
 
 ## Tech Stack
 ### Main Skills -
-[![Main Skills](https://skillicons.dev/icons?i=java,spring,js,py,mysql,mongodb,git)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=java,spring,js,mysql,mongodb,git)](https://skillicons.dev)
 ### Secondary Skills -
-[![Secondary Skills](https://skillicons.dev/icons?i=docker,aws,cpp,maven,postman,rabbitmq,cs,dotnet,django,sqlite,ubuntu)](https://skillicons.dev)
+[![Secondary Skills](https://skillicons.dev/icons?i=docker,aws,angular,maven,postman,rabbitmq,py,cpp,ubuntu)](https://skillicons.dev)
 ### Enthusiastic About - 
-[![Secondary Skills](https://skillicons.dev/icons?i=go,kotlin,scala,rust,elixir)](https://skillicons.dev)
+[![Secondary Skills](https://skillicons.dev/icons?i=go,kotlin,scala,rust,elixir,lua,zig)](https://skillicons.dev)
 
 ### Stats -
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ATLAS-B28&show_icons=true&locale=en&layout=compact" alt="adityabhambere" /></p>
@@ -24,7 +24,7 @@ I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune, driven b
 ## 🔭 Currently Working on
 
 - 🚀 Learning Java based Full Stack Software Development
-  - Build CLI project in Java by utilizing native libraries for file and I/O operations. 
+  - Built a CLI project in Java by utilizing native libraries for file and I/O operations. 
   - Exploring Spring and its components like Spring Security, Spring Data, etc to understand better how to build
     Java-based scalable backends.
   - Diving into MySQL for efficient and scalable database management.
@@ -35,7 +35,7 @@ I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune, driven b
   - Gaining technical know-how in DevOps environment by learning AWS, Docker, and Linux.
 
  ## 🏆 Achievements
-- 🌟 Completed Amazon Jr Devloper Path via Coursera build projects along the way.
+- 🌟 Completed Amazon Jr Devloper Path via Coursera - Learned new skills and practiced existing skills, built several projects along the way.
 - 🌟 Completed AWS course from Udemy - The course comprised of learning and practicing cloud computing concepts & various services of AWS. 
 - 🌟 Completed Forage's Cisco Intro to Software Engineering Completion Certificate - Where I developed a React-based front-end application.
 - 🌟 Learnt and Completed DSA Course on Udemy - Here, I learned to solve basic DSA questions and gain knowledge regarding various data structures and algorithms.
