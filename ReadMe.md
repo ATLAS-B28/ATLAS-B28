@@ -1,38 +1,37 @@
 # Hi, I'm ***ADITYA BHAMBERE***! 👋
 
-I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune, driven by a curiosity for technology and building solutions for complex problems. My journey involves delving into computer science and exploring new ideas.
+I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune with 8 Months Internship experience in ERP/CRM creation, driven by a curiosity for technology and building solutions for complex problems. My journey involves delving into computer science and exploring new ideas.
 
 ![ATLAS-B28's Stats](https://github-readme-stats.vercel.app/api?username=ATLAS-B28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I recently completed my bachelor's in Computer Science from D.Y.Patil University.
+- 👨🏻‍💻 Drove enterprise digitalization, orchestrated REST API integration across CRM ecosystems, and led the migration of legacy workflows into modern automation layers — delivering scalable solutions that optimized business operations.
 - ✍️ Interested in learning new technologies and maintaining legacy systems.
 - 📟 Loves to explore intersections between Embedded, Cloud, Developer tools & Programming.  
 
 ## Tech Stack
 ### Main Skills -
-[![Main Skills](https://skillicons.dev/icons?i=java,spring,js,mysql,mongodb,git)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=java,spring,js,mysql,postgres,mongodb,git)](https://skillicons.dev)
 ### Secondary Skills -
-[![Secondary Skills](https://skillicons.dev/icons?i=docker,aws,angular,maven,postman,rabbitmq,py,cpp,ubuntu)](https://skillicons.dev)
+[![Secondary Skills](https://skillicons.dev/icons?i=docker,aws,nextjs,react,maven,postman,rabbitmq,py,cpp,ubuntu)](https://skillicons.dev)
 ### Enthusiastic About - 
-[![Secondary Skills](https://skillicons.dev/icons?i=go,kotlin,scala,rust,elixir,lua,zig)](https://skillicons.dev)
+[![Secondary Skills](https://skillicons.dev/icons?i=go,kotlin,scala,rust,zig)](https://skillicons.dev)
 
 ### Stats -
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ATLAS-B28&show_icons=true&locale=en&layout=compact" alt="adityabhambere" /></p>
 
 ## 🔭 Currently Working on
-
-- 🚀 Learning Java based Full Stack Software Development
-  - Built a CLI project in Java by utilizing native libraries for file and I/O operations. 
-  - Exploring Spring and its components like Spring Security, Spring Data, etc to understand better how to build
-    Java-based scalable backends.
-  - Diving into MySQL for efficient and scalable database management.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Exploring the ins and outs of JavaScript, React, and Redux for dynamic front-end experiences.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Practicing DBMS, Networking, and OS concepts
-  - Gaining technical know-how in DevOps environment by learning AWS, Docker, and Linux.
+ - BitSerp – Modular ERP System — Java, Spring Boot, PostgreSQL, PostGIS, pgvector, OAuth2, React — Designing a production‑grade ERP with modular architecture, OAuth2 security, and a geospatial/AI‑extended PostgreSQL stack.
+ - BITS‑CRM – AI‑Powered CRM — Next.js, TypeScript, Tailwind, PostgreSQL, Drizzle — Built a full‑stack CRM with drag‑and‑drop pipeline, role‑based access, AI email assistant, predictive lead scoring, and real‑time analytics dashboards.
+ - DevOps Infrastructure & Deployment — AWS (EC2, S3, VPC), Docker, Docker Compose, Linux — Containerized a full‑stack app and deployed it on AWS EC2 with multi‑container orchestration and CI/CD.
+ - Spring Framework Showcase — Java, Spring Boot, MySQL, GraphQL, RabbitMQ, WebSocket — Collection of production‑pattern apps including employee portal, Todo system, GraphQL API, and message‑queue integration.
+ - Formula 1 Analytics Dashboard — Python, Pandas, Streamlit — Interactive dashboard for F1 race analysis with driver stats, lap times, and championship standings, powered by a data pipeline from raw CSV.
+ - HTTP Server in Java — Java, Sockets, NIO — Built an HTTP server from scratch with socket management, config parsing, request/response lifecycle, and static file serving.
+ - Java CLI Utilities — Java, File I/O, NIO, OOP — Built a command‑line toolkit from scratch leveraging native Java libraries for advanced file system operations, data parsing, and batch processing
+ - Spring Security & Data Showcase — Spring Boot, Spring Security, Spring Data JPA, MySQL, JWT — Designed a secure REST API with role‑based access, JWT auth, and JPA repository patterns.
+ - StoreIT – Cloud File Storage — Next.js, React, TypeScript, Appwrite, Tailwind — Built a Google Drive‑style file manager with multi‑user auth, file categorization, full‑text search, and fully responsive UI.
 
  ## 🏆 Achievements
 - 🌟 Completed Amazon Jr Devloper Path via Coursera - Learned new skills and practiced existing skills, built several projects along the way.
