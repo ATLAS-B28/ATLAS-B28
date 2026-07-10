@@ -18,7 +18,9 @@ I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune with 8 Mo
 [![Secondary Skills](https://skillicons.dev/icons?i=go,kotlin,scala,rust,zig)](https://skillicons.dev)
 
 ### Stats -
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ATLAS-B28&show_icons=true&locale=en&layout=compact" alt="adityabhambere" /></p>
+<a src="https://github.com/anuraghazra/github-readme-stats">
+   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATLAS-B28">
+</a>
 
 ## 🔭 Currently Working on
  - BitSerp – Modular ERP System — Java, Spring Boot, PostgreSQL, PostGIS, pgvector, OAuth2, React — Designing a production‑grade ERP with modular architecture, OAuth2 security, and a geospatial/AI‑extended PostgreSQL stack.
