@@ -18,8 +18,8 @@ I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune with 8 Mo
 [![Secondary Skills](https://skillicons.dev/icons?i=go,kotlin,scala,rust,zig)](https://skillicons.dev)
 
 ## 🔭 Currently Working on
- - BitSerp – Modular ERP System — Java, Spring Boot, PostgreSQL, PostGIS, pgvector, OAuth2, React — Designing a production‑grade ERP with modular architecture, OAuth2 security, and a geospatial/AI‑extended PostgreSQL stack.
- - BITS‑CRM – AI‑Powered CRM — Next.js, TypeScript, Tailwind, PostgreSQL, Drizzle — Built a full‑stack CRM with drag‑and‑drop pipeline, role‑based access, AI email assistant, predictive lead scoring, and real‑time analytics dashboards.
+ - BITS ERP – Modular ERP System — Java, Spring Boot, PostgreSQL, PostGIS, pgvector, OAuth2, React — Designing a production‑grade ERP with modular architecture, OAuth2 security, and a geospatial/AI‑extended PostgreSQL stack.
+ - BITS CRM – AI‑Powered CRM — Next.js, TypeScript, Tailwind, PostgreSQL, Drizzle — Built a full‑stack CRM with drag‑and‑drop pipeline, role‑based access, AI email assistant, predictive lead scoring, and real‑time analytics dashboards.
  - DevOps Infrastructure & Deployment — AWS (EC2, S3, VPC), Docker, Docker Compose, Linux — Containerized a full‑stack app and deployed it on AWS EC2 with multi‑container orchestration and CI/CD.
  - Spring Framework Showcase — Java, Spring Boot, MySQL, GraphQL, RabbitMQ, WebSocket — Collection of production‑pattern apps including employee portal, Todo system, GraphQL API, and message‑queue integration.
  - Formula 1 Analytics Dashboard — Python, Pandas, Streamlit — Interactive dashboard for F1 race analysis with driver stats, lap times, and championship standings, powered by a data pipeline from raw CSV.
