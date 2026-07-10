@@ -2,8 +2,6 @@
 
 I am a passionate B.Tech Graduate in CS from D.Y.Patil University Pune with 8 Months Internship experience in ERP/CRM creation, driven by a curiosity for technology and building solutions for complex problems. My journey involves delving into computer science and exploring new ideas.
 
-![ATLAS-B28's Stats](https://github-readme-stats.vercel.app/api?username=ATLAS-B28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I recently completed my bachelor's in Computer Science from D.Y.Patil University.
